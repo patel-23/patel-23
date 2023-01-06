@@ -8,7 +8,7 @@ I'm an aspiring Full Stack Developer. I have experience with technologies and fr
 
 * 🌇 I'm based in: Toronto, Canada
 * ✉️ You can contact me at: [sp29pate@uwaterloo.ca](mailto:sp29pate@uwaterloo.ca)
-* 💡 Check out my portfolio: [shiv-patel.com](shiv-patel.com)
+* 💡 Check out my portfolio: [shiv-patel.com](https://shiv-patel.com/)
 * 🚀 I'm currently working on: Machine Learning algorithm to predict EPL game scores
 * 🎯 I'm learning: AWS (Cloud computing platform)
 * ⚽️ Fun Fact: Goalkeeper and Liverpool F.C. Fan
