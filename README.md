@@ -1,16 +1,16 @@
 Hey there! 🤝 My name is Shiv.
 =============================================================================================================================
 
-Software Developer and Graphic Designer
+Software Developer, Data Analyst, and Graphic Designer
 ----------------------------------------
 
-I'm an aspiring Full Stack Developer. I have experience with technologies and frameworks such as Java, Python, JavaScript, HTML, and SQL.
+I'm an aspiring Full Stack Developer. I have experience with technologies and frameworks such as Java, JavaScript, HTML, Python and SQL.
 
 * 🌇 I'm based in: Toronto, Canada
 * ✉️ You can contact me at: [sp29pate@uwaterloo.ca](mailto:sp29pate@uwaterloo.ca)
 * 💡 Check out my portfolio: [shiv-patel.com](https://shiv-patel.com/)
 * 🚀 I'm currently working on: Machine Learning algorithm to predict EPL game scores
-* 🎯 I'm learning: AWS (Cloud computing platform)
+* 🎯 I'm learning: AWS (Cloud Computing Platform)
 * ⚽️ Fun Fact: Goalkeeper and Liverpool F.C. Fan
 
 ### Skills
